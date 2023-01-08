@@ -14,4 +14,4 @@ class LLMDataset(Dataset):
         return len(self.data)
 
     def __getitem__(self, idx):
-        return self.tokenizer(self.data[idx])
+        return self.tokenizer(self.data[idx], return_tensors='pt')
