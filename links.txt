@@ -1,2 +1,10 @@
 Mask out some previous tokens
 https://arxiv.org/pdf/2210.13432.pdf
+
+Shampoo
+https://www.youtube.com/watch?v=YDL8NXlS8hA
+
+0/1 adam
+https://www.deepspeed.ai/tutorials/zero-one-adam/#1-overview
+
+
